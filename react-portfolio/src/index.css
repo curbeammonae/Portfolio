@@ -1,0 +1,14 @@
+* {
+  /* the border is coonsidered when calculating the width and the height of the object*/
+  box-sizing: border-box; 
+  margin: 0;
+  padding: 0;
+  font-family:  Arial, Helvetica, sans-serif;
+  scrollbar-width: none;
+
+}
+
+html {
+  scroll-behavior: smooth;
+  
+}
