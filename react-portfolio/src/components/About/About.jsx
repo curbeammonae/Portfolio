@@ -17,10 +17,9 @@ export default function About() {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Software</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a fullstack developer with experience in building responsive, optimized sites and applications
               </p>
             </div>
           </li>
