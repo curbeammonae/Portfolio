@@ -3,14 +3,13 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-export default function Hero(){
+export default function Hero() {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hey, I'm Monae Curbeam</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+         Full-Stack Developer
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
@@ -25,4 +24,4 @@ export default function Hero(){
       <div className={styles.bottomBlur} />
     </section>
   );
-};
+}
