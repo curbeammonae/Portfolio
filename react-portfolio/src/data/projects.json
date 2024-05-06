@@ -2,7 +2,7 @@
     {
       "title": "Portfolio",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This portfolio was built from scratch!",
       "skills": ["React", "HTML", "CSS"],
       "demo": "https://portfolio-bice-omega-49.vercel.app/",
       "source": "https://github.com/curbeammonae/Portfolio/tree/main"
@@ -10,15 +10,15 @@
     {
       "title": "transPLANT",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Web Application for people looking to transition into a plant based diet!",
       "skills": ["React", "Express", "Node", "TailwindCSS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://transplantapp.vercel.app/",
+      "source": "https://github.com/curbeammonae/transplantappreact"
     },
     {
-      "title": "Project C",
+      "title": "blank",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "blank",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"

@@ -7,11 +7,11 @@ export default function Hero() {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hey, I'm Monae Curbeam</h1>
+        <h1 className={styles.title}>Hey, <br></br>I'm Monae Curbeam</h1>
         <p className={styles.description}>
          Full-Stack Developer
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:curbeammonae@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
