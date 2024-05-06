@@ -6,6 +6,7 @@ import About from './components/About/About'
 import Experience from './components/Experience/Experience'
 import Projects from './components/Projects/Projects'
 import Contact from './components/Contact/Contact'
+import Blog from './components/Blog/Blog'
 
 // styles.App is coming from App.module.css
 
@@ -17,6 +18,7 @@ export default function App() {
       <About />
       <Experience />
       <Projects />
+      <Blog />
       <Contact />
     </div>
   )
