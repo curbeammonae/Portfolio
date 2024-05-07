@@ -13,16 +13,14 @@ export default function About() {
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <p>
-                I'm a dedicated full stack developer driven by a passion for
-                crafting accessible web applications that not only excites users
-                but also has the power to transform lives. My ultimate goal is
+                I'm a dedicated full-stack developer driven by a passion for
+                crafting accessible web applications that not only excite users
+                but also have the power to transform lives. My ultimate goal is
                 to leverage my expertise and experience to make a meaningful and
                 positive difference.
               </p>
             </div>
           </li>
-          
-         
         </ul>
       </div>
     </section>
