@@ -4,23 +4,47 @@
       "imageSrc": "projects/project.png",
       "description": "This portfolio was built from scratch!",
       "skills": ["React", "HTML", "CSS"],
-      "demo": "https://portfolio-bice-omega-49.vercel.app/",
+      "demo": "https://monaecurbeam.vercel.app/",
       "source": "https://github.com/curbeammonae/Portfolio/tree/main"
     },
     {
       "title": "transPLANT",
       "imageSrc": "projects/project.png",
       "description": "Web Application for people looking to transition into a plant based diet!",
-      "skills": ["React", "Express", "Node", "TailwindCSS"],
-      "demo": "https://transplantapp.vercel.app/",
+      "skills": ["React", "Express", "Node", "Tailwind", "MongoDB"],
+      "demo": "https://transplantappreact.onrender.com//",
       "source": "https://github.com/curbeammonae/transplantappreact"
     },
     {
-      "title": "blank",
-      "imageSrc": "projects/project.png",
-      "description": "blank",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Astronomers of Tommorrow",
+      "imageSrc": "projects/NASA.png",
+      "description": "An image generator using NASA’s API to display a picture from one of their powerful microscopes and rovers.",
+      "skills": ["HTML","CSS", "JavaScript"],
+      "demo": "https://astronomersoftomorrow.netlify.app/",
+      "source": "https://github.com/curbeammonae/NASA-APOD?tab=readme-ov-file"
+    },
+    {
+      "title": "Coffee Sunday",
+      "imageSrc": "projects/coffeesunday.png",
+      "description": "An online coffee ordering application for small business event",
+      "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
+      "demo": "https://coffee-sundays.onrender.com/",
+      "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"
+    },
+    {
+      "title": "Eccomerce App",
+      "imageSrc": "projects/NASA.png",
+      "description": "An image generator using NASA’s API to display a picture from one of their powerful microscopes and rovers.",
+      "skills": ["HTML","CSS", "JavaScript"],
+      "demo": "https://astronomersoftomorrow.netlify.app/",
+      "source": "https://github.com/curbeammonae/NASA-APOD?tab=readme-ov-file"
+    },
+    {
+      "title": "Coffee Sunday",
+      "imageSrc": "projects/coffeesunday.png",
+      "description": "An online coffee ordering application for small business event",
+      "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
+      "demo": "https://coffee-sundays.onrender.com/",
+      "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"
     }
   ]
