@@ -33,7 +33,7 @@
   font-size: 70px;
   font-weight: 900;
   margin-bottom: 15px;
-  font-family: var(--font-roboto);
+  
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 70%,
@@ -45,7 +45,7 @@
 
 .description {
   font-size: 25px;
-  font-family: var(--font-roboto);
+ 
   margin-bottom: 20px;
   
 }

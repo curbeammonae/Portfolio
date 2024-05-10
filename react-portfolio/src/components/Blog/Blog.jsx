@@ -5,7 +5,7 @@ import styles from "./Blog.module.css";
 
 export default function Blog() {
   return (
-    <section className={styles.container} id="projects">
+    <section className={styles.container} id="blog">
     <h2 className={styles.title}>Blog</h2>
     <div className={styles.projects}>
       {blogs.map((blog, id) => {

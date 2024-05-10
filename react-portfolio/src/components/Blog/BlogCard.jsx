@@ -19,7 +19,7 @@ export const BlogCard = ({
     <p className={styles.description}>{description}</p>
     <div className={styles.links}>
         <a href={read} className={styles.link}>
-          read
+          Read
         </a>
         
       </div>
