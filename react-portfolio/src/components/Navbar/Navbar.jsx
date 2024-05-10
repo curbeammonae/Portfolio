@@ -24,9 +24,7 @@ export default function Navbar(){
           className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
           onClick={() => setMenuOpen(false)}
         >
-          <li>
-            <a href="#about">About</a>
-          </li>
+          
           <li>
             <a href="#experience">Experience</a>
           </li>
@@ -39,5 +37,8 @@ export default function Navbar(){
         </ul>
       </div>
     </nav>
+    // <div>
+    //   <h1>Developing with creativity and drive!</h1>
+    // </div>
   );
 };

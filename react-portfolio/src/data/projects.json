@@ -24,23 +24,7 @@
       "source": "https://github.com/curbeammonae/NASA-APOD?tab=readme-ov-file"
     },
     {
-      "title": "Coffee Sunday",
-      "imageSrc": "projects/coffeesunday.png",
-      "description": "An online coffee ordering application for small business event",
-      "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
-      "demo": "https://coffee-sundays.onrender.com/",
-      "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"
-    },
-    {
-      "title": "Eccomerce App",
-      "imageSrc": "projects/NASA.png",
-      "description": "An image generator using NASA’s API to display a picture from one of their powerful microscopes and rovers.",
-      "skills": ["HTML","CSS", "JavaScript"],
-      "demo": "https://astronomersoftomorrow.netlify.app/",
-      "source": "https://github.com/curbeammonae/NASA-APOD?tab=readme-ov-file"
-    },
-    {
-      "title": "Coffee Sunday",
+      "title": "Coffee Sunday (client)",
       "imageSrc": "projects/coffeesunday.png",
       "description": "An online coffee ordering application for small business event",
       "skills": ["EJS","CSS", "JavaScript","Node", "Express"],

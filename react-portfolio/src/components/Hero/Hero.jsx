@@ -8,12 +8,16 @@ export default function Hero() {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hey, <br></br>I'm Monae Curbeam</h1>
+    
+        <p>
         <p className={styles.description}>
-         Full-Stack Developer
+                I'm a dedicated full-stack developer driven by a passion for<br></br>
+                crafting accessible web applications that not only excite <br></br>users
+                but also have the power to transform lives. <br></br>My ultimate goal is
+                to leverage my expertise and experience <br></br>to make a meaningful and
+                positive difference.
+              </p>
         </p>
-        <a href="mailto:curbeammonae@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}

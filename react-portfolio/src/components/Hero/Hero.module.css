@@ -1,15 +1,24 @@
 @import "../../vars.css";
 
-.container {
+/* .container {
   position: relative;
   display: flex;
-  align-items: center;
+ 
   justify-content: space-between;
   margin-top: 49px;
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
   background-color: black;
+} */
+
+.container{
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  margin-top: 100px;
 }
 
 .content {
@@ -38,6 +47,7 @@
   font-size: 25px;
   font-family: var(--font-roboto);
   margin-bottom: 20px;
+  
 }
 
 .contactBtn {
@@ -52,13 +62,13 @@
 }
 
 .heroImg {
-  width: 38%;
+  width: 10%;
   z-index: 1;
 
-  animation-name: floating;
+  /* animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out; */
 }
 
 @keyframes floating {
@@ -104,6 +114,7 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    padding:  0 20px;
   }
 
   .content {
@@ -111,5 +122,8 @@
   }
   .title{
     text-align:  center;
+  }
+  .heroImg{
+    visibility: hidden;
   }
 }
