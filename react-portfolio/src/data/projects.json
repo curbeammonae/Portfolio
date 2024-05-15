@@ -30,5 +30,13 @@
       "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
       "demo": "https://coffee-sundays.onrender.com/",
       "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"
+    },
+    {
+      "title": "Coffee Sunday (client)",
+      "imageSrc": "projects/coffeesunday.png",
+      "description": "An online coffee ordering application for small business event",
+      "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
+      "demo": "https://coffee-sundays.onrender.com/",
+      "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"
     }
   ]
