@@ -4,8 +4,22 @@ import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
 export default function Hero() {
+  const openResume = () => {
+    // Replace 'path_to_your_resume.pdf' with the actual path to your resume PDF file
+    // window.open('https://docs.google.com/document/d/1dpoQpB__2xrtnYy7xDINVpwfBdC3TRHf/edit?usp=sharing&ouid=102243122793471169853&rtpof=true&sd=true', '_blank');
+    console.log('hey')
+  };
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id="hero">
+     
+      <div>
+      <img
+        src={getImageUrl("hero/moe.jpg")}
+        alt="Hero image of me"
+        className={styles.heroImg}
+      />
+
+      </div>
       <div className={styles.content}>
         <h1 className={styles.title}>Hey, <br></br>I'm Monae Curbeam</h1>
     
@@ -18,14 +32,15 @@ export default function Hero() {
                 positive difference.
               </p>
         </p>
+        
+        <button className={styles.contactBtn} onClick={openResume}>Resume</button>
+        {/* <button className={styles.contactBtn} > <a href="https://github.com/curbeammonae"><img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" /></a></button>
+        <button className={styles.contactBtn}><a href="https://github.com/curbeammonae"><img src={getImageUrl("contact/linkedinIcon.png")} alt="Github icon" /></a>
+</button> */}
+          
+          
       </div>
-      <img
-        src={getImageUrl("hero/heroImage.png")}
-        alt="Hero image of me"
-        className={styles.heroImg}
-      />
-      <div className={styles.topBlur} />
-      <div className={styles.bottomBlur} />
+      
     </section>
   );
 }

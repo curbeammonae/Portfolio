@@ -2,15 +2,20 @@
 
 .container {
   color: var(--color-text);
-   margin-top: 79px;
+   
+   min-height: 100vh;
+   align-content: center;
+   
   
 }
 
 .title {
   color: white;
+  font-family: "Karla";
+  font-weight: 900;
 
   font-size: 35px;
-  font-weight: 700;
+
   letter-spacing: 1.75px;
   
   text-align: center;
@@ -19,6 +24,7 @@
 .content {
 
   margin-top: 14px; 
+  
 }
 
 .skills {
@@ -26,6 +32,7 @@
   justify-content: center;
  gap: 30px; 
  padding: 10px 30px;
+ 
  
 }
 
@@ -54,6 +61,7 @@
   font-size: 19px;
   font-family: var(--font-roboto);
   font-weight: 500;
+  font-family: "Karla";
 }
 
 .history {
@@ -93,6 +101,7 @@
 .historyItemDetails p {
   font-size: 20px;
   font-weight: 300;
+  
 }
 
 .historyItemDetails ul {
@@ -122,4 +131,25 @@
     width: 100%;
     gap: 9px;
   }
+}
+@media (min-width: 912px) and (max-width: 1368px){
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 34px;
+  }
+
+  .skills {
+    
+    flex-direction: column;
+    align-items: center;
+
+   
+  }
+
+  .history {
+    width: 100%;
+    gap: 9px;
+  }
+
 }

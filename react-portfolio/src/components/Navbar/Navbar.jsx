@@ -26,7 +26,10 @@ export default function Navbar(){
         >
           
           <li>
-            <a href="#experience">Experience</a>
+            <a href="#hero">About</a>
+          </li>
+          <li>
+            <a href="#experience">Skills</a>
           </li>
           <li>
             <a href="#projects">Projects</a>

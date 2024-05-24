@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 
 export default function About() {
   return (
-    <section className={styles.container} id="about">
+    <section className={styles.container}>
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <ul className={styles.aboutItems}>
