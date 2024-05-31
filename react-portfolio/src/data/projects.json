@@ -30,14 +30,6 @@
       "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
       "demo": "https://coffee-sundays.onrender.com/",
       "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"
-    },
-    {
-      "title": "AudioHug",
-      "imageSrc": "projects/coffeesunday.png",
-      "description": "Eccomerce application for audio production company ",
-      "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
-      "demo": "https://audiohug-client.onrender.com/",
-      "source": "https://github.com/curbeammonae/AUDIOHUG"
     }
   ]
 
