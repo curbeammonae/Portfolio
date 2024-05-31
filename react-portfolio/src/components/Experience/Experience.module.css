@@ -44,7 +44,7 @@
 }
 
 .skillImageContainer {
-  background-color: var(--color-secondary);
+  background-color: rgb(36, 112, 211);
   border-radius: 100%;
   display: flex;
   align-items: center;

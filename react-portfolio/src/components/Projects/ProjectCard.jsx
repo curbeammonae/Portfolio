@@ -19,13 +19,13 @@ export const ProjectCard = ({
       <div>
         <ul className={styles.links}>
         <li>
-        <a href={demo} className={styles.link}>
+        <a href={demo} className={styles.link} target="_blank">
           Demo
         </a>
 
         </li>
         <li>
-        <a href={source} className={styles.link}>
+        <a href={source} className={styles.link} target="_blank">
           Repository
         </a>
 

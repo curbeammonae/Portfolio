@@ -1,8 +1,8 @@
 [
     {
       "title": "Portfolio",
-      "imageSrc": "projects/project.png",
-      "description": "This portfolio was built from scratch using React and CSS.",
+      "imageSrc": "projects/coffeesunday.png",
+      "description": "This portfolio was built from scratch using React and CSS. Check out the code below!",
       "skills": ["React", "HTML", "CSS"],
       "demo": "https://monaecurbeam.vercel.app/",
       "source": "https://github.com/curbeammonae/Portfolio/tree/main"
@@ -16,17 +16,17 @@
       "source": "https://github.com/curbeammonae/transplantappreact"
     },
     {
-      "title": "Astronomers of Tommorrow",
+      "title": "Space Station",
       "imageSrc": "projects/NASA.png",
-      "description": "Use NASA’s API to display a picture from one of their powerful microscopes and rovers.",
+      "description": "Use NASA’s API to display a picture from many of their powerful satellites.",
       "skills": ["HTML","CSS", "JavaScript"],
       "demo": "https://astronomersoftomorrow.netlify.app/",
       "source": "https://github.com/curbeammonae/NASA-APOD?tab=readme-ov-file"
     },
     {
-      "title": "Coffee Sunday (client)",
+      "title": "Coffee Sunday",
       "imageSrc": "projects/coffeesunday.png",
-      "description": "Coffee ordering application for co-working event",
+      "description": "Coffee ordering application for co-working and wellness event for young professionals",
       "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
       "demo": "https://coffee-sundays.onrender.com/",
       "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"

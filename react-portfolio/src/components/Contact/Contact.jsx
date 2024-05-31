@@ -17,12 +17,12 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           
-          <a href="https://github.com/curbeammonae"><img src={getImageUrl("contact/linkedinIcon.png")} alt="Github icon" /></a>
+          <a href="https://www.linkedin.com/in/monaecurbeam/"><img src={getImageUrl("contact/linkedinIcon.png")} alt="Github icon" /></a>
         </li>
-        <li className={styles.link}>
+        {/* <li className={styles.link}>
           
-          <a href="https://github.com/curbeammonae"><img src={getImageUrl("contact/emailIcon.png")} alt="Github icon" /></a>
-        </li>
+          <a href="curbeammonae@gmail.com"><img src={getImageUrl("contact/emailIcon.png")} alt="Github icon" /></a>
+        </li> */}
       </ul>
     </footer>
   );
