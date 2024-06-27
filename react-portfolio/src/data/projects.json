@@ -16,7 +16,7 @@
       "source": "https://github.com/curbeammonae/transplantappreact"
     },
     {
-      "title": "Space Station",
+      "title": "AOT",
       "imageSrc": "projects/NASA.png",
       "description": "Use NASA’s API to display a picture from many of their powerful satellites.",
       "skills": ["HTML","CSS", "JavaScript"],

@@ -14,7 +14,7 @@ export default function Hero() {
      
       <div>
       <img
-        src={getImageUrl("hero/moe.jpg")}
+        src={getImageUrl("hero/avi.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
