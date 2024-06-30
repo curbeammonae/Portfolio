@@ -33,7 +33,7 @@ export default function Hero() {
               </p>
         </p>
         
-        <button className={styles.contactBtn} onClick={openResume}>Resume</button>
+        {/* <button className={styles.contactBtn} onClick={openResume}>Resume</button> */}
         {/* <button className={styles.contactBtn} > <a href="https://github.com/curbeammonae"><img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" /></a></button>
         <button className={styles.contactBtn}><a href="https://github.com/curbeammonae"><img src={getImageUrl("contact/linkedinIcon.png")} alt="Github icon" /></a>
 </button> */}
