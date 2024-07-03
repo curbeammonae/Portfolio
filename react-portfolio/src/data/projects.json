@@ -22,14 +22,6 @@
       "skills": ["HTML","CSS", "JavaScript"],
       "demo": "https://astronomersoftomorrow.netlify.app/",
       "source": "https://github.com/curbeammonae/NASA-APOD?tab=readme-ov-file"
-    },
-    {
-      "title": "Coffee Sunday",
-      "imageSrc": "projects/coffeesunday.png",
-      "description": "Coffee ordering application for co-working and wellness event for young professionals",
-      "skills": ["EJS","CSS", "JavaScript","Node", "Express"],
-      "demo": "https://coffee-sundays.onrender.com/",
-      "source": "https://github.com/curbeammonae/CoffeeSundays?tab=readme-ov-file"
     }
   ]
 
